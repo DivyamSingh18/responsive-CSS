@@ -45,7 +45,7 @@ body{
 
 nav {
     background-color:green ;
-    padding: 10px 0px;
+    
 }
 nav ul{
     display: grid;
@@ -60,6 +60,7 @@ nav ul li a{
  list-style: none;
  text-decoration: none;
  display: block;
+    padding: 10px 0px;
 }
 
 nav ul li a:hover{
